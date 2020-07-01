@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475685663824",
+    "firebase_url": "https://hilfe-fec6f.firebaseio.com",
+    "project_id": "hilfe-fec6f",
+    "storage_bucket": "hilfe-fec6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475685663824:android:8b9badc1ae5a9aeb8a0d55",
+        "android_client_info": {
+          "package_name": "com.codegladiator.hilfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475685663824-ththtl7qnrl225naqobm6oe4u5uj4i4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegladiator.hilfe",
+            "certificate_hash": "c203f47549312aa638f4083a988958988c78fee8"
+          }
+        },
+        {
+          "client_id": "475685663824-vmtucuh90na5qb8cvi3ud92ffedchk54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChfjiRxiW80fRFfGt2kXVO58xvxmwacDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475685663824-vmtucuh90na5qb8cvi3ud92ffedchk54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
